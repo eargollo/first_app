@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="3d09e0b1-d820-4c0f-9a8d-8ca44a7508aa" kpf_version="5" name="learn_rails.komodoproject">
+<preference-set idref="3d09e0b1-d820-4c0f-9a8d-8ca44a7508aa">
+  <string relative="path" id="import_dirname"></string>
+  <string id="import_exclude_matches">*.*~;*.bak;*.tmp;CVS;.#*;*.pyo;*.pyc;.svn;.git;.hg;.bzr;*%25*;tmp*.html;.DS_Store;*.swp;*.kpf;*.komodoproject;.komodotools;__pycache__</string>
+  <string id="import_include_matches"></string>
+  <string id="rubyDefaultInterpreter">/home/eargollo/.rvm/bin/ruby</string>
+  <string id="rubyExtraPaths"></string>
+</preference-set>
 </project>
